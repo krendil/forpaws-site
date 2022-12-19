@@ -1,12 +1,12 @@
 ---
 title: For Paws Family Kennel
 subtitle: Sharing our family with yours
-image: /img/home-jumbotron.jpg
+image: img/img_20221003_114745.jpg
 blurb:
   heading: Blurb title
   text: Blurb text
 intro:
-  heading: What we offer
+  heading: Intro title
   text: Intro text
 products: []
 values:
